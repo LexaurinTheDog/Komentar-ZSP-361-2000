@@ -158,6 +158,11 @@ Negativní vymezení působnosti je rovněž zásadní:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [72 A 2/2018 - 32](https://vyhledavac.nssoud.cz/DokumentDetail/Index/434462) — 30. 8. 2019
+  > „Pojem provozovatele vozidla je v § 2 písm. b) zákona č. 361/2000 Sb., o provozu na pozemních komunikacích, a § 2 odst. 15 zákona č. 56/2001 Sb., o podmínkách provozu vozidel na pozemních komunikacích, vymezen na základě evidenčního principu. Postavení provozovatele vozidla a jeho odpovědnost za správní delikt podle § 125f odst. 1 zákona o silničním provozu jsou spojeny se zápisem vlastníka nebo jiné osoby v registru silničních vozidel jako provozovatele vozidla, nikoli s pouhým vlastnictvím vozidla jako takovým. Je tedy nerozhodné, kdo je vlastníkem vozidla ve smyslu předpisů soukromého práva, podstatné je, kdo j…"
+
 #### Účastník provozu (písm. a) — pojem-stavební kámen
 
 Pojem **účastník provozu na pozemních komunikacích** je nejširším pojmem zákona a stojí v jeho centru: každá osoba, která se „přímým způsobem" účastní provozu, je vázána povinnostmi § 4 (obecná ohleduplnost). Pojem zahrnuje:
@@ -1519,6 +1524,13 @@ Klíčová pravidla:
 **Vozidlo jako překážka** (odst. 4) — o jeho odstranění rozhoduje policista nebo strážník obecní policie, odstraní se na náklad provozovatele. **Na dálnici** — odstranění zajistí v souladu s pokyny policisty osoba, která překážku způsobila.
 
 > **Praktická poznámka — odtah:** Nesprávně zaparkované vozidlo (např. blokující výjezd) může být odtaženo na náklad provozovatele. Praxe v Praze: pozdě odtažené auto z parkovacího místa = pokuta + odtah za 3 000–5 000 Kč + denní úschova. Odvolání proti odtahu se podává obecnímu úřadu.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 765/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-765-14) — 13. 3. 2014
+  > „V souladu s obecnou koncepcí objektivní odpovědnosti za škodu způsobenou provozem dopravních prostředků i zákon o provozu na pozemních komunikacích koncipuje objektivní odpovědnost toho, kdo způsobil překážku provozu na pozemních komunikacích tak, že stanovuje tomuto subjektu povinnost tuto překážku neprodleně odstranit, a neučiní-li tak, povinnost uhradit náklady na její odstranění vlastníku pozemní komunikace. Závazkový vztah je tudíž ve smyslu § 45 odst. 4 zákona č. 361/2000 Sb. ve spojení s § 489 a § 420 občanského zákoníku založen způsobením škody, jež je dána náklady na odstranění vozidla za účelem zabezpečení provozu na pozemní komunikaci"
+- *NSS* [6 As 237/2021 - 56](https://vyhledavac.nssoud.cz/DokumentDetail/Index/706193) — 1. 12. 2022
+  > „Překážkou provozu na pozemní komunikaci je vše, co by mohlo ohrozit bezpečnost nebo plynulost provozu na pozemních komunikacích, například náklad, materiál nebo jiné předměty, vozidlo ponechané na pozemní komunikaci nebo závady ve sjízdnosti pozemní komunikace [§ 2 písm. ee) zákona o silničním provozu]. … Podle § 45 odst. 4 zákona o silničním provozu platí, že je-li překážkou provozu na pozemní komunikaci vozidlo, rozhoduje o jeho odstranění policista nebo strážník obecní policie"
 
 ---
 

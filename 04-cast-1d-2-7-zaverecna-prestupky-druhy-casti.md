@@ -168,6 +168,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 13/2017 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/513473) — 12. 10. 2017
+  > „Podstatné pro spáchání přestupku podle § 125c odst. 1 písm. c) zákona č. 361/2000 Sb. je tedy skutečnost prokázání ovlivnění alkoholem nebo jinou návykovou látkou a je nutno připomenout, že v České republice platila a platí tzv. nulová tolerance alkoholu při řízení motorových vozidel"
+
 #### Postavení § 125c v systému dopravních přestupků
 
 § 125c je **centrální skutkovou podstatou** přestupků fyzických osob v silničním provozu. Strukturálně:
@@ -246,6 +251,11 @@ Klíčové **hraniční** skutkové podstaty:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 As 173/2022 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/718398) — 5. 2. 2024
+  > „Zákon proto nově uložil provozovateli vozidla povinnost znát údaje potřebné k určení totožnosti osoby řidiče, kterému vozidlo svěřil. […] Smyslem právní úpravy je tedy usnadnit policii a správním orgánům přístup k údajům o řidiči, který je podezřelý ze spáchání dopravního přestupku ve vozidle provozovaném někým jiným a který nebyl bezprostředně po spáchání přestupku ztotožněn policií. Povinnost provozovatele znát údaje potřebné k určení totožnosti osoby řidiče je tedy opodstatněna oprávněným zájmem státu na ztotožnění případného pachatele dopravního přestupku"
+
 #### Účel — odpovědnost firemních provozovatelů
 
 § 125d zakládá samostatnou odpovědnost **právnických osob** (typicky logistických společností, dopravců, autoškol provozujících vlastní flotilu, autopůjčoven) a **podnikajících FO** (taxikáři-OSVČ, řemeslníci s firemními vozy). Skutkové podstaty jsou užší než u § 125c, neboť právnická osoba sama vozidlo neřídí — postih je za **organizační selhání**:
@@ -289,6 +299,11 @@ Stejný skutek nelze postihovat oběma cestami — § 125g odst. 1 zabraňuje so
 > *(6) Pokuta uložená za přestupek podle tohoto zákona, která byla předána obecním úřadem obce s rozšířenou působností obecnému správci daně ke správě placení, je z 30 % příjmem státního rozpočtu a ze 70 % příjmem obce, jejíž orgán pokutu uložil.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 129/2015 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/463998) — 16. 1. 2018
+  > „odpovědnost fyzické osoby za správní delikt provozovatele vozidla (§ 125e odst. 5 a § 125f odst. 1 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích, ve znění účinném do 6. 11. 2014) zaniká ve stejné lhůtě jako odpovědnost právnické osoby za správní delikt podle citovaného zákona (§ 125e odst. 3 tohoto zákona per analogiam), nikoli v roční lhůtě podle § 20 odst. 1 zákona č. 200/1990 Sb., o přestupcích"
 
 #### Příslušnost (odst. 1)
 
@@ -425,6 +440,13 @@ Specifické rozdělení **30 % stát / 70 % obec, která pokutu uložila**. Toto
 > *b) vzniku přeplatku, pokud se nevrací z důvodu, že nedosahuje výše 200 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 A 56/2020 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/705263) — 4. 10. 2022
+  > „Z uvedené právní úpravy vyplývá, že odpovědnost provozovatele vozidla je objektivní a subsidiární k odpovědnosti řidiče za přestupek […]. Dle odborné literatury: „Jinými slovy řečeno se jedná o povinnost správního orgánu projednat předmětný přestupek provozovatele vozidla teprve tehdy, když přes veškeré úsilí, které od něj lze důvodně očekávat v souladu s principy dobré správy, nezjistil skutečnosti…"
+- *NSS* [22 A 19/2024 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741201) — 28. 2. 2025
+  > „Závěr o tom, že technická porucha vozidla nepředstavuje liberační důvod ve smyslu § 125f odst. 6 zákona č. 361/2000 Sb. neznamená, že tvrzená technická porucha nemůže představovat důvod, proč řidič vozidla porušil svoji povinnost, tj. nemůže vyvolat otázku naplnění materiální stránky přestupku…"
 
 #### Geneze institutu — novela č. 297/2011 Sb.
 

@@ -409,6 +409,15 @@ Obec může **obecně závazným nařízením** zakázat užívání osobních p
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 604/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-604-09_1) — usnesení, 16. 9. 2009
+  > „V případě stanovení místní úpravy provozu se jedná o případ, kdy jsou obecně určeným adresátům (tj. potenciálním účastníkům provozu) stanoveny odlišné povinnosti, než jaké by měli podle obecné úpravy ve smyslu ustanovení § 61 odst. 1 zákona č. 361/2000 Sb"
+- *NSS* [2 Ao 3/2008 - 100](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/613977) — 7. 1. 2009
+  > „Jestliže tedy oproti obecné úpravě provozu z dopravní značky žádná povinnost odlišného chování neplyne, není dán žádný racionální důvod takovouto značku označovat za opatření obecné povahy"
+- *NSS* [9 A 79/2016 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/531273) — 21. 7. 2016
+  > „Místní úpravou provozu ve smyslu § 61 odst. 2 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích a o změnách některých zákonů (zákon o silničním provozu), ve znění pozdějších předpisů … je též úprava provozu na pozemních komunikacích provedená zábradlím, které patří mezi dopravní zařízení podle § 15 odst. 1 písm. d) vyhlášky č. 294/2015 Sb., kterou se provádějí pravidla provozu na pozemních komunikacích"
+
 #### Trojí typologie úprav provozu
 
 Zákon zavádí **tříúrovňovou hierarchii úprav** provozu na pozemních komunikacích:
@@ -496,6 +505,13 @@ Tvary symbolů jsou **uniformní a nemodifikovatelné**, kromě tří výjimek:
 > *(2) Prováděcí právní předpis stanoví podrobnosti dělení informativních značek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ao 3/2008 - 100](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/613977) — 7. 1. 2009
+  > „Konkrétně to např. znamená, že opatřením obecné povahy jsou typicky zákazové a příkazové značky, značky upravující přednost; nikoliv však značky výstražné a ta část informativních značek, které pouze poskytují účastníku provozu na pozemních komunikacích nutné informace, příp. slouží k jeho orientaci (viz ustanovení § 63 zákona č. 361/2000 Sb. …)"
+- *ÚS* [I.ÚS 604/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-604-09_1) — usnesení, 16. 9. 2009
+  > „Jestliže tedy oproti obecné úpravě provozu z dopravní značky žádná povinnost odlišného chování neplyne, není dán racionální důvod takovouto značku označovat za opatření obecné povahy. Konkrétně to např. znamená, že opatřením obecné povahy jsou typicky zákazové a příkazové značky, značky upravující přednost; nikoliv však značky výstražné a ta část informativních značek, které pouze poskytují účastníku provozu na pozemních komunikacích nutné informace, příp. slouží k jeho orientaci (viz ustanovení § 63 zákona č. 361/2000 Sb. …)"
 
 #### Šestidělná typologie svislých značek
 
@@ -1174,6 +1190,13 @@ Na **neveřejně přístupných účelových komunikacích** (typicky lesní ces
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [40 A 2/2019 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/437825) — 4. 6. 2019
+  > „K tomu je třeba vycházet z § 78 odst. 2 zákona č. 361/2000 Sb., … Je tak zřejmé, že smysl umístění dopravních značek nemůže být samoúčelný či dokonce šikanózní, nýbrž že musí být racionální a opodstatněný některým z uvedených legitimních důvodů. Pokud takový důvod neexistuje, jedná se o dopravní značku umístěnou protizákonně"
+- *NSS* [57 A 36/2020 - 105](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/659375) — 16. 4. 2021
+  > „… dopravní značky, světelné a akustické signály, dopravní zařízení a zařízení pro provozní informace se smějí užívat jen v takovém rozsahu a takovým způsobem, jak to nezbytně vyžaduje bezpečnost a plynulost provozu na pozemních komunikacích nebo jiný důležitý veřejný zájem. Z toho vyplývá, že smysl umístění dopravních značek nemůže být samoúčelný či dokonce šikanózní, nýbrž musí být racionální a mít opodstatnění z některých uvedených legitimních důvodů"
+
 #### Princip uceleného systému (odst. 1)
 
 Značky, signály a zařízení musí tvořit **ucelený, koherentní systém** — bez vnitřních rozporů, navazující na sebe. Nemůže být například značka „Konec hlavní silnice“ bez předcházející značky „Hlavní silnice“, ani „Konec zákazu předjíždění“ bez „Zákazu předjíždění“ atd.
@@ -1286,6 +1309,11 @@ Znamení musí být dáno **včas a zřetelně** s ohledem na okolnosti — řid
 > *Za účelem zvýšení bezpečnosti provozu na pozemních komunikacích je policie a obecní policie oprávněna měřit rychlost vozidel. Obecní policie tuto činnost vykonává výhradně na místech určených policií, přitom postupuje v součinnosti s policií.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [66 A 6/2025 - 23](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744985) — 13. 8. 2025
+  > „Není však přípustné, aby takováto třetí osoba měla jakýkoliv hmotný zájem na výsledcích měření stacionárního zařízení (§ 79a zákona č. 361/2000 Sb., o silničním provozu). … není rozhodné, kdo je vlastníkem rychloměru, nýbrž je podstatné, zda zde není zájem soukromé osoby na množství zjištěných přestupků nebo na výši vybraných pokut"
 
 #### Subjekty oprávněné měřit rychlost
 
@@ -1414,6 +1442,11 @@ Speciální pravidla:
 ### § 82 — Podmínky udělení a držení ŘO
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 138/2014 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/539320) — 30. 12. 2015
+  > „Termín „přechodný pobyt“ obsažený v § 82 zákona č. 361/2000 Sb., o provozu na pozemních komunikacích … je nutno interpretovat v souladu s legislativní zkratkou v § 2 písm. hh) téhož zákona, která jej pro účely citovaného zákona rozšiřuje o další kvalitu spočívající v délce trvání přechodného pobytu na území České republiky. Jako osoby, které mají na území České republiky přechodný pobyt, je tedy nutno pro účely tohoto zákona chápat ty osoby, které mají na území České republiky přechodný pobyt, který trvá alespoň 185 dnů …"
 
 #### Pozitivní podmínky udělení (odst. 1)
 
@@ -1674,6 +1707,13 @@ Po pominutí důvodů pro modifikaci ŘO může držitel požádat o:
 ### § 102 — Vrácení ŘO po pozbytí (zákaz činnosti)
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [76 A 35/2011 - 47](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/553919) — 14. 8. 2013
+  > „… po uplynutí doby zákazu činnosti nemůže řidič bez dalšího opět řídit motorové vozidlo. Takový postup by byl jistě možný, ale zákonodárce zvolil jiný, a sice vrácení řidičského oprávnění na žádost ve zvláštním řízení, který vede k faktickému prodloužení doby, po kterou řidič nemůže řídit motorové vozidlo, minimálně o dobu trvání procedury vrácení"
+- *NSS* [76 A 28/2013 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/545518) — 9. 2. 2015
+  > „… osoba, která pozbyla řidičské oprávnění, jej nenabývá po vykonání sankce zákazu činnosti automaticky, ale zákonodárce zvolil cestu vrácení rozhodnutím správního úřadu. … výklad § 102 odst. 1 zákona č. 361/2000 Sb. podtrhuje skutečnost, že rozhodnutí o vrácení řidičského oprávnění má konstitutivní povahu s účinky ex nunc, zejména proto, že jde o samostatné řízení"
 
 #### Trojí kategorie podmínek
 
