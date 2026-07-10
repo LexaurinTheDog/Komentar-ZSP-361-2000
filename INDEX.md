@@ -15,3 +15,7 @@
 - **Zákaz mobilu v ruce** (§ 7)
 - **Mentorský systém L17** (sedmnáctiletý řidič)
 - **Vyhláška 294/2015** — dopravní značky
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
